@@ -1,5 +1,5 @@
 # Color_Guessing_Game
-# 🎨 Color Guessing Game
+
 
 A fun and interactive **Color Guessing Game** built to test your RGB color knowledge.  
 Guess the correct color based on the given RGB value and improve your color recognition skills!
